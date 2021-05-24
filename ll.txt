@@ -1,0 +1,7 @@
+#include<iostream>
+using namespacse std;
+int main()
+{
+cout<<"hello";
+return 0;
+}
