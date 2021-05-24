@@ -3,5 +3,6 @@ using namespacse std;
 int main()
 {
 cout<<"hello";
+cout<<"to all of u";
 return 0;
 }
